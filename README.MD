@@ -1,10 +1,7 @@
-<img
-align="left"
-width="30"
-style="padding-right:30px;"
-src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif">
-
-#  Leonardo Melo 
+<p align="left">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif" height="40" style="vertical-align: middle; margin-right:10px;">
+  <strong style="font-size:32px;">Leonardo Melo</strong>
+</p>
 
 🚀 **`Desenvolvedor FullStack Jr`**
  
@@ -23,7 +20,7 @@ Tenho grande interesse em desenvolvimento Front-End, onde gosto de transformar i
 <a href="mailto:leomelo2332@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/leonardo-da-silva-melo-53b136270">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-# 🛠️ Tech Stak
+# 🛠️ Tech Stack
 
 ## Frontend ##
 
