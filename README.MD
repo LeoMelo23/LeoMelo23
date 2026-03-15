@@ -1,7 +1,7 @@
 <img
 align=left
 height="40"
-style="padding-right:15px;"
+style="padding-right:15px; margin-top:10px"
 src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif">
 
 
@@ -53,5 +53,6 @@ src="https://github-readme-stats.vercel.app/api?username=LeoMelo23&show_icons=tr
 align = "left"
 height = "200"
 style = "padding-right: 10px;"
-src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMelo23&theme=tokyonight&layout=compact">
+src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMelo23&theme=tokyonight">
 </img>
+
