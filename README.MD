@@ -36,7 +36,7 @@
 
 ---
 
-# ESTATÍSTICAS
+## Estatísticas do GitHub
 
 <img 
 align = "left"
