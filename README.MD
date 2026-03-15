@@ -1,5 +1,5 @@
 <h1>
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif" height="40">
+  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif" height="40" style="padding-right:10px;">
   Leonardo Melo
 </h1>
 
