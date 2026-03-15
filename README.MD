@@ -1,7 +1,5 @@
-<div style="display:flex; align-items:center; gap:10px;">
-  <img src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif" height="40">
-  <h1>Leonardo Melo</h1>
-</div>
+# ![Scizor](https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif) Leonardo Melo
+
 
 🚀 **`Desenvolvedor FullStack Jr`**
  
