@@ -1,9 +1,4 @@
-<img
-align=left
-height="40"
-style="padding-right:15px; margin-top:50px;"
-src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif">
-
+[![Scizor](https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif)](https://pokemondb.net/pokedex/scizor)
 
 #  Leonardo Melo 
 
