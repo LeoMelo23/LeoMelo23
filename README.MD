@@ -6,9 +6,9 @@
 
 🚀 **`Desenvolvedor FullStack Jr`**
  
-🤖 Me chamo Leonardo da Silva Melo, tenho 23 anos estou cursando Matemática Bacharelado na Universidade Estadual de Londrina.
+  Me chamo Leonardo da Silva Melo, tenho 23 anos estou cursando Matemática Bacharelado na Universidade Estadual de Londrina.
 
-Tenho grande interesse em desenvolvimento Front-End, onde gosto de transformar ideias em interfaces bonitas e funcionais. Também estudo Back-End para entender melhor como as aplicações funcionam por completo.
+💻Apaixonado por programação, com foco em desenvolvimento Front-End, criando interfaces modernas, funcionais e intuitivas. Também estudo Back-End para entender melhor como as aplicações funcionam por completo.
 
 
 
