@@ -1,6 +1,6 @@
 <img
-width="40"
-style="padding-right:15px; margin-top:50px;"
+width="30"
+style="padding-right:10px;"
 src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif">
 
 #  Leonardo Melo 
