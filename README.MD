@@ -1,7 +1,7 @@
 <img
 align=left
 height="40"
-style="padding-right:15px; margin-top:10px"
+style="padding-right:15px; align-items:baseline"
 src="https://img.pokemondb.net/sprites/black-white/anim/normal/scizor.gif">
 
 
