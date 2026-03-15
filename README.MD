@@ -17,7 +17,6 @@ Tenho grande interesse em desenvolvimento Front-End, onde gosto de transformar i
 # 🌏 Como me achar
 
 <a href="https://github.com/LeoMelo23">![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)</a>
-<a href="https://wa.me/5514998401664">![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white)</a>
 <a href="mailto:leomelo2332@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/leonardo-da-silva-melo-53b136270">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
