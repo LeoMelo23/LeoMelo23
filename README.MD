@@ -38,12 +38,5 @@
 
 ## Estatísticas do GitHub
 
-<img 
-align = "left"
-title = "GitHub Stats"
-height = "200"
-style = "padding-right: 10px;"
-src="https://github-readme-stats.vercel.app/api?username=LeoMelo23&show_icons=true&theme=tokyonight&locale=pt-br">
-</img>
-
+[![LeoMelo23 GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMelo23)](https://github.com/LeoMelo23/github-readme-stats)
 
