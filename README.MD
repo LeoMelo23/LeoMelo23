@@ -49,6 +49,6 @@ src="https://github-readme-stats.vercel.app/api?username=LeoMelo23&show_icons=tr
 align = "left"
 height = "200"
 style = "padding-right: 10px;"
-src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMelo23&theme=tokyonight">
+src = [![LeoMelo23 GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMelo23)](https://github.com/LeoMelo23/github-readme-stats)
 </img>
 
