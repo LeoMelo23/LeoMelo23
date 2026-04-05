@@ -3,7 +3,7 @@
   Leonardo Melo
 </h1>
 
-🚀 **`Desenvolvedor FullStack Jr`**
+🚀 **Desenvolvedor FullStack Jr**
  
   Me chamo Leonardo da Silva Melo, tenho 23 anos estou cursando Matemática Bacharelado na Universidade Estadual de Londrina.
 
