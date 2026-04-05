@@ -36,7 +36,5 @@
 
 ---
 
-## Estatísticas do GitHub
 
-[![LeoMelo23 GitHub stats](https://github-readme-stats.vercel.app/api?username=LeoMelo23)](https://github.com/LeoMelo23/github-readme-stats)
 
