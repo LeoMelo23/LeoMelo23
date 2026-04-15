@@ -41,5 +41,21 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Estatísticas do GitHub
+
+<img 
+align = "left"
+title = "GitHub Stats"
+height = "200"
+style = "padding-right: 10px;"
+src="https://github-readme-stats.vercel.app/api?username=LeoMelo23&show_icons=true&theme=tokyonight&locale=pt-br">
+</img>
+<img 
+align = "left"
+height = "200"
+style = "padding-right: 10px;"
+src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LeoMelo23&theme=tokyonight">
+</img>
+
 
 
